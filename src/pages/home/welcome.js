@@ -10,7 +10,7 @@ const welcome = ()=>{
             </figure>
             <!-- principal title -->
             <div class="col-lg-3 col-12 text-warning">
-                <h1>JS 09</h1>
+                <h1>Por favor escribe tu nombre</h1>
             </div>
             <!-- sesion description -->
             <div class="col-lg-4 col-12 text-start">
